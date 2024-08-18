@@ -1,4 +1,4 @@
-# Instabot-Part1-CodingNinjas
+# Instabot1-PythonSelenium
 The InstaBot repository is a Python project that utilizes the Selenium library to create a bot for automating interactions on Instagram. With this bot, you can perform various tasks on Instagram, such as liking posts, following users, leaving comments, and more, all in an automated manner.
 
 Your friend has opened a new Food Blogging handle on Instagram and wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so he asks you to help him. As you have just learned automation using Selenium, you decided to help him by creating an Instagram Bot.
